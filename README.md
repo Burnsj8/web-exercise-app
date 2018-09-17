@@ -1,4 +1,4 @@
-# web-exercise-app
+# Web Programming Exercise App - 2018
 This Repository is for my Web Programming class project.
 
 
